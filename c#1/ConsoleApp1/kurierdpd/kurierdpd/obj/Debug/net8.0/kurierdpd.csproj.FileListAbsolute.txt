@@ -1,0 +1,14 @@
+C:\Users\kacpr\source\repos\kolosc\kurierdpd\kurierdpd\bin\Debug\net8.0\kurierdpd.exe
+C:\Users\kacpr\source\repos\kolosc\kurierdpd\kurierdpd\bin\Debug\net8.0\kurierdpd.deps.json
+C:\Users\kacpr\source\repos\kolosc\kurierdpd\kurierdpd\bin\Debug\net8.0\kurierdpd.runtimeconfig.json
+C:\Users\kacpr\source\repos\kolosc\kurierdpd\kurierdpd\bin\Debug\net8.0\kurierdpd.dll
+C:\Users\kacpr\source\repos\kolosc\kurierdpd\kurierdpd\bin\Debug\net8.0\kurierdpd.pdb
+C:\Users\kacpr\source\repos\kolosc\kurierdpd\kurierdpd\obj\Debug\net8.0\kurierdpd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kacpr\source\repos\kolosc\kurierdpd\kurierdpd\obj\Debug\net8.0\kurierdpd.AssemblyInfoInputs.cache
+C:\Users\kacpr\source\repos\kolosc\kurierdpd\kurierdpd\obj\Debug\net8.0\kurierdpd.AssemblyInfo.cs
+C:\Users\kacpr\source\repos\kolosc\kurierdpd\kurierdpd\obj\Debug\net8.0\kurierdpd.csproj.CoreCompileInputs.cache
+C:\Users\kacpr\source\repos\kolosc\kurierdpd\kurierdpd\obj\Debug\net8.0\kurierdpd.dll
+C:\Users\kacpr\source\repos\kolosc\kurierdpd\kurierdpd\obj\Debug\net8.0\refint\kurierdpd.dll
+C:\Users\kacpr\source\repos\kolosc\kurierdpd\kurierdpd\obj\Debug\net8.0\kurierdpd.pdb
+C:\Users\kacpr\source\repos\kolosc\kurierdpd\kurierdpd\obj\Debug\net8.0\kurierdpd.genruntimeconfig.cache
+C:\Users\kacpr\source\repos\kolosc\kurierdpd\kurierdpd\obj\Debug\net8.0\ref\kurierdpd.dll

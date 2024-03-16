@@ -1,0 +1,15 @@
+C:\Users\kacpr\source\repos\kolosc\ZespolDowna\ZespolDowna\obj\Debug\net8.0\Zespol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kacpr\source\repos\kolosc\ZespolDowna\ZespolDowna\obj\Debug\net8.0\Zespol.AssemblyInfoInputs.cache
+C:\Users\kacpr\source\repos\kolosc\ZespolDowna\ZespolDowna\obj\Debug\net8.0\Zespol.AssemblyInfo.cs
+C:\Users\kacpr\source\repos\kolosc\ZespolDowna\ZespolDowna\obj\Debug\net8.0\Zespol.csproj.CoreCompileInputs.cache
+C:\Users\kacpr\source\repos\kolosc\ZespolDowna\ZespolDowna\obj\Debug\net8.0\Zespol.sourcelink.json
+C:\Users\kacpr\source\repos\kolosc\ZespolDowna\ZespolDowna\bin\Debug\net8.0\Zespol.exe
+C:\Users\kacpr\source\repos\kolosc\ZespolDowna\ZespolDowna\bin\Debug\net8.0\Zespol.deps.json
+C:\Users\kacpr\source\repos\kolosc\ZespolDowna\ZespolDowna\bin\Debug\net8.0\Zespol.runtimeconfig.json
+C:\Users\kacpr\source\repos\kolosc\ZespolDowna\ZespolDowna\bin\Debug\net8.0\Zespol.dll
+C:\Users\kacpr\source\repos\kolosc\ZespolDowna\ZespolDowna\bin\Debug\net8.0\Zespol.pdb
+C:\Users\kacpr\source\repos\kolosc\ZespolDowna\ZespolDowna\obj\Debug\net8.0\Zespol.dll
+C:\Users\kacpr\source\repos\kolosc\ZespolDowna\ZespolDowna\obj\Debug\net8.0\refint\Zespol.dll
+C:\Users\kacpr\source\repos\kolosc\ZespolDowna\ZespolDowna\obj\Debug\net8.0\Zespol.pdb
+C:\Users\kacpr\source\repos\kolosc\ZespolDowna\ZespolDowna\obj\Debug\net8.0\Zespol.genruntimeconfig.cache
+C:\Users\kacpr\source\repos\kolosc\ZespolDowna\ZespolDowna\obj\Debug\net8.0\ref\Zespol.dll
