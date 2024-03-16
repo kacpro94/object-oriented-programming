@@ -1,0 +1,14 @@
+C:\Users\kacpr\source\repos\kolosc\kolosC\kolosC\bin\Debug\net8.0\kolosC.exe
+C:\Users\kacpr\source\repos\kolosc\kolosC\kolosC\bin\Debug\net8.0\kolosC.deps.json
+C:\Users\kacpr\source\repos\kolosc\kolosC\kolosC\bin\Debug\net8.0\kolosC.runtimeconfig.json
+C:\Users\kacpr\source\repos\kolosc\kolosC\kolosC\bin\Debug\net8.0\kolosC.dll
+C:\Users\kacpr\source\repos\kolosc\kolosC\kolosC\bin\Debug\net8.0\kolosC.pdb
+C:\Users\kacpr\source\repos\kolosc\kolosC\kolosC\obj\Debug\net8.0\kolosC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kacpr\source\repos\kolosc\kolosC\kolosC\obj\Debug\net8.0\kolosC.AssemblyInfoInputs.cache
+C:\Users\kacpr\source\repos\kolosc\kolosC\kolosC\obj\Debug\net8.0\kolosC.AssemblyInfo.cs
+C:\Users\kacpr\source\repos\kolosc\kolosC\kolosC\obj\Debug\net8.0\kolosC.csproj.CoreCompileInputs.cache
+C:\Users\kacpr\source\repos\kolosc\kolosC\kolosC\obj\Debug\net8.0\kolosC.dll
+C:\Users\kacpr\source\repos\kolosc\kolosC\kolosC\obj\Debug\net8.0\refint\kolosC.dll
+C:\Users\kacpr\source\repos\kolosc\kolosC\kolosC\obj\Debug\net8.0\kolosC.pdb
+C:\Users\kacpr\source\repos\kolosc\kolosC\kolosC\obj\Debug\net8.0\kolosC.genruntimeconfig.cache
+C:\Users\kacpr\source\repos\kolosc\kolosC\kolosC\obj\Debug\net8.0\ref\kolosC.dll
